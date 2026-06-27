@@ -1,0 +1,35 @@
+{
+  "哈哈": {
+    "password": "123456",
+    "nickname": "哈哈",
+    "best_score": 192,
+    "max_number": 32,
+    "total_games": 4,
+    "records": [
+      {
+        "score": 180,
+        "max_number": 32,
+        "steps": 30,
+        "time": "2026-06-18 19:00:20"
+      },
+      {
+        "score": 164,
+        "max_number": 32,
+        "steps": 30,
+        "time": "2026-06-18 19:02:24"
+      },
+      {
+        "score": 192,
+        "max_number": 32,
+        "steps": 30,
+        "time": "2026-06-18 19:12:54"
+      },
+      {
+        "score": 188,
+        "max_number": 32,
+        "steps": 30,
+        "time": "2026-06-18 19:19:48"
+      }
+    ]
+  }
+}
